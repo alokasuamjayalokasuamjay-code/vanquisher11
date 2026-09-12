@@ -11,8 +11,8 @@
   "lang": "id",
   "categories": ["utilities", "productivity", "social"],
   "icons": [
-    { "src": "https://files.catbox.moe/8flsuo.jpg", "sizes": "192x192", "type": "image/jpeg", "purpose": "any" },
-    { "src": "https://files.catbox.moe/8flsuo.jpg", "sizes": "512x512", "type": "image/jpeg", "purpose": "any" },
-    { "src": "https://files.catbox.moe/8flsuo.jpg", "sizes": "any", "type": "image/jpeg", "purpose": "maskable" }
+    { "src": "https://files.catbox.moe/j5quzm.png", "sizes": "192x192", "type": "image/jpeg", "purpose": "any" },
+    { "src": "https://files.catbox.moe/j5quzm.png", "sizes": "512x512", "type": "image/jpeg", "purpose": "any" },
+    { "src": "https://files.catbox.moe/j5quzm.png", "sizes": "any", "type": "image/jpeg", "purpose": "maskable" }
   ]
 }
